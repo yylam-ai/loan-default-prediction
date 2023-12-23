@@ -20,6 +20,6 @@ The final model achieved an ROC AUC score of 96.34% on the test set, which indic
   *   Employment History: Provide information about borrower's current and previous jobs. Borrowers with stable employment history is more likely to repay the loan.
   *   Education level and age: Borrowers with higher education level or older may be less risky as they are likely to have higher income and stability.
 
-2. Retrieve the missing entries for `loan.csv`. It would be difficult to keep track of borrower's historical data accurately without a complete record.
+2. Retrieve missing historical data if possible. It would be difficult to keep track of borrower's historical data accurately without a complete record.
 
-
+## For more details, please refer to this[notebook](https://github.com/yylam-ai/loan-default-prediction/blob/main/prediction.ipynb) 😃
