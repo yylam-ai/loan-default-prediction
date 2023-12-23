@@ -12,7 +12,7 @@ In this notebook, we will explore the development of a model to predict whether 
 
 The final model achieved an ROC AUC score of 96.34% on the test set, which indicates that our model has a good ability to distinguish between the positive and negative classes. The model can be used by lenders to assess the risk associated with lending money to a particular borrower and make informed decisions based on the predictions made by the model.
 
-#Further improvement
+## Further improvement
 1. To improve the model's performance, we could gather features such as:
   *   Income: Reflect borrower's ability to repay the loan
   *   Debt: Provide insights into borrower's ability financial situation and ability to repay the loan
