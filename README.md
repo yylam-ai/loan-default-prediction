@@ -22,4 +22,4 @@ The final model achieved an ROC AUC score of 96.34% on the test set, which indic
 
 2. Retrieve missing historical data if possible. It would be difficult to keep track of borrower's historical data accurately without a complete record.
 
-## For more details, please refer to this[notebook](https://github.com/yylam-ai/loan-default-prediction/blob/main/prediction.ipynb) 😃
+## For more details, please refer to this [notebook](https://github.com/yylam-ai/loan-default-prediction/blob/main/prediction.ipynb) 😃
